@@ -1,0 +1,12 @@
+C:\home\PersonaApp\Persona.Domain\bin\Debug\net5.0\Persona.Domain.deps.json
+C:\home\PersonaApp\Persona.Domain\bin\Debug\net5.0\Persona.Domain.dll
+C:\home\PersonaApp\Persona.Domain\bin\Debug\net5.0\ref\Persona.Domain.dll
+C:\home\PersonaApp\Persona.Domain\bin\Debug\net5.0\Persona.Domain.pdb
+C:\home\PersonaApp\Persona.Domain\obj\Debug\net5.0\Persona.Domain.csproj.AssemblyReference.cache
+C:\home\PersonaApp\Persona.Domain\obj\Debug\net5.0\Persona.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\PersonaApp\Persona.Domain\obj\Debug\net5.0\Persona.Domain.AssemblyInfoInputs.cache
+C:\home\PersonaApp\Persona.Domain\obj\Debug\net5.0\Persona.Domain.AssemblyInfo.cs
+C:\home\PersonaApp\Persona.Domain\obj\Debug\net5.0\Persona.Domain.csproj.CoreCompileInputs.cache
+C:\home\PersonaApp\Persona.Domain\obj\Debug\net5.0\Persona.Domain.dll
+C:\home\PersonaApp\Persona.Domain\obj\Debug\net5.0\ref\Persona.Domain.dll
+C:\home\PersonaApp\Persona.Domain\obj\Debug\net5.0\Persona.Domain.pdb

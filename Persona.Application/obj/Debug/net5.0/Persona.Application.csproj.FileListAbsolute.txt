@@ -1,0 +1,17 @@
+C:\home\PersonaApp\Persona.Application\bin\Debug\net5.0\Persona.Application.deps.json
+C:\home\PersonaApp\Persona.Application\bin\Debug\net5.0\Persona.Application.dll
+C:\home\PersonaApp\Persona.Application\bin\Debug\net5.0\ref\Persona.Application.dll
+C:\home\PersonaApp\Persona.Application\bin\Debug\net5.0\Persona.Application.pdb
+C:\home\PersonaApp\Persona.Application\bin\Debug\net5.0\Persona.Domain.dll
+C:\home\PersonaApp\Persona.Application\bin\Debug\net5.0\Persona.Infraestructure.dll
+C:\home\PersonaApp\Persona.Application\bin\Debug\net5.0\Persona.Infraestructure.pdb
+C:\home\PersonaApp\Persona.Application\bin\Debug\net5.0\Persona.Domain.pdb
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\Persona.Application.csproj.AssemblyReference.cache
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\Persona.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\Persona.Application.AssemblyInfoInputs.cache
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\Persona.Application.AssemblyInfo.cs
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\Persona.Application.csproj.CoreCompileInputs.cache
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\Persona.Application.csproj.CopyComplete
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\Persona.Application.dll
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\ref\Persona.Application.dll
+C:\home\PersonaApp\Persona.Application\obj\Debug\net5.0\Persona.Application.pdb

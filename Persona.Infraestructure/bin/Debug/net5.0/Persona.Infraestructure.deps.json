@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Persona.Infraestructure/1.0.0": {
+        "dependencies": {
+          "Persona.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Persona.Infraestructure.dll": {}
+        }
+      },
+      "Persona.Domain/1.0.0": {
+        "runtime": {
+          "Persona.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Persona.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Persona.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

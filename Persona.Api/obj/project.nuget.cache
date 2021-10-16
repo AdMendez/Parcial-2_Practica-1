@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfO8U1lHHZF2ARUyJwdDfF4JXdpd0CKLLOiHB01Cdz/2JI6JGfbm4xMF7/A+R7m0hqTg5G6rCTl9kAE2brgsGA==",
+  "success": true,
+  "projectFilePath": "C:\\home\\PersonaApp\\Persona.Api\\Persona.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nachi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nachi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nachi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\nachi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\nachi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\nachi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
